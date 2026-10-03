@@ -1,0 +1,52 @@
+Total rows: 51
+Headers: ["Product ID","Product Name","Category","Brand","Price (₦)","Starting Price","Short Description","Full Description","Specifications","Warranty","Installation","Stock Status","Featured","Image Name","Gallery Images","SKU","Tags"]
+JTG010|150a Mppt Solar Charge Controller - 150a 12/24/36/48v Auto|Inverter|Mppt Solar Charge Controller|45000|45000|1 Year|Available|In Stock|No|inv-010.jpg|inv-010-1.jpg, inv-010-2.jpg|INV-010
+JTG011|Daystar 12V 220AH Tubular Inverter Battery|Battery|Daystar|240000|240000|2 Years|Available|In Stock|No|inv-011.jpg|inv-011-1.jpg, inv-011-2.jpg|INV-011
+JTG026|Grovolt ARGOS 4.2KW MPPT Solar inverters, Hybrid inverter|Inverter|Grovolt ARGOS|230000|230000|1 Year|Available|In Stock|No|inv-026.jpg|inv-026-1.jpg, inv-026-2.jpg|INV-026
+JTG031|Jongfa 2000w Solar Power Inverter|Inverter|Jongfa|520000|520000|1 Year|Available|In Stock|No|inv-031.jpg|inv-031-1.jpg, inv-031-2.jpg|INV-031
+JTG052|Felicity Solar IVPS 5048 – 5 kVA / 48 V Transformer-Based Pure Sine Wave Inverter|Inverter|Felicity Solar|620000|620000|10 Years|Available|In Stock|Yes|inv-052.jpg.png|inv-052-1.jpg, inv-052-2.jpg|INV-052
+JTG055|Felicity Solar 6kva 48v Hybrid Inverter With Inbuilt 7500w Mppt Controller|Inverter|Felicity Solar|650000|650000|10 Years|Available|In Stock|No|inv-055.jpg|inv-055-1.jpg, inv-055-2.jpg|INV-055
+JTG066|Felicity 60ah 48V MPPT Solar Charge Controller Dc To Dc Mppt Solar Charge Controller | SCCM6048-V1|Charge Controller|Felicity Solar|230000|230000|5 Years|Available|In Stock|No|cc-004.jpg|cc-004-1.jpg, cc-004-2.jpg|CC-004
+JTG073|Felicity Lithium Battery FL-LPBF48250|Battery|Felicity Solar 48v 12.5kwh 250ah Lithium Ion Battery With Inbuilt Wi-fi|1995000|1995000|12 Years|Available|In Stock|Yes|bat-li-002.jpg|bat-li-002-1.jpg, bat-li-002-2.jpg|BAT-LI-002
+JTG076|Mercury 1.5kva 12v Hybrid Solar Inverter|inverter|Mercury|345000|345000|5 Years|Available|In Stock|Yes|bat-li-005.jpg|bat-li-005-1.jpg, bat-li-005-2.jpg|BAT-LI-005
+JTG086|Felicity All-in-One 5kW + 5kWh ESS AI100- 5048|All-in-One System|Felicity|1451000|1451000|3 Years|Available|In Stock|No|aio-001.jpg|aio-001-1.jpg, aio-001-2.jpg|AIO-001
+JTG089|High Voltage System IVGM20KLP3G1|High Voltage System|Felicity Solar|2950000|2950000|10 Years|Available|In Stock|No|hvs-001.jpg|hvs-001-1.jpg, hvs-001-2.jpg|HVS-001
+JTG093|High Voltage System FLH48100R13G1(Rack)|High Voltage System|Felicity Solar|640000|640000|10 Years|Available|In Stock|No|hvs-005.jpg|hvs-005-1.jpg, hvs-005-2.jpg|HVS-005
+JTG097|CEE Power MPPT Charge Controller 40A 12/48V|Charge Controller|CEE Power|84000|84000|2 Years|Available|In Stock|No|cc-011.jpg|cc-011-1.jpg, cc-011-2.jpg|CC-011
+JTG112|CEE Power MPPT Charge Controller 80A MUST 265V|Charge Controller|CEE Power|230000|230000|2 Years|Available|In Stock|No|cc-026.jpg|cc-026-1.jpg, cc-026-2.jpg|CC-026
+JTG120|Solar Panel 450W Maximum power|Solar Panel|Mixed (Jinko/Africell/Chevron/JC/Fala/SS Power/Patanjali)|100000|100000|10 Years|Available|In Stock|No|pnl-004.jpg|pnl-004-1.jpg, pnl-004-2.jpg|PNL-004
+JTG122|Solar Panel 150W JC|Solar Panel|Mixed (Jinko/Africell/Chevron/JC/Fala/SS Power/Patanjali)|42000|42000|10 Years|Available|In Stock|No|pnl-006.jpg|pnl-006-1.jpg, pnl-006-2.jpg|PNL-006
+JTG125|Solar Panel 200W Africell|Solar Panel|Mixed (Jinko/Africell/Chevron/JC/Fala/SS Power/Patanjali)|45000|45000|10 Years|Available|In Stock|No|pnl-009.jpg|pnl-009-1.jpg, pnl-009-2.jpg|PNL-009
+JTG128|Solar Panel 350W Africell|Solar Panel|Mixed (Jinko/Africell/Chevron/JC/Fala/SS Power/Patanjali)|80000|80000|10 Years|Available|In Stock|No|pnl-012.jpg|pnl-012-1.jpg, pnl-012-2.jpg|PNL-012
+JTG129|Solar Panel 430W Africell|Solar Panel|Mixed (Jinko/Africell/Chevron/JC/Fala/SS Power/Patanjali)|88000|88000|10 Years|Available|In Stock|No|pnl-013.jpg|pnl-013-1.jpg, pnl-013-2.jpg|PNL-013
+JTG139|Solar Panel 600W Jinko|Solar Panel|Jinko|135000|135000|12 Years|Available|In Stock|Yes|pnl-023.jpg|pnl-023-1.jpg, pnl-023-2.jpg|PNL-023
+JTG141|Gel Battery 26Ah 12V power maxim|Battery|Power Maxim / Trillion / Network|46000|46000|1 Year|Available|In Stock|No|bat-tb-001.jpg|bat-tb-001-1.jpg, bat-tb-001-2.jpg|BAT-TB-001
+JTG156|Mercury 5500(5.5KVA) Off Grid Solar Inverter, 48V|Inverter|Mercury|285000|285000|5 Years|Available|In Stock|No|bat-tb-016.jpg|bat-tb-016-1.jpg, bat-tb-016-2.jpg|BAT-TB-016
+JTG165|Tubular Battery 250Ah Sahara|Battery|Mixed (Amaron/Orex/Sahara/Patanjali/etc.)|225000|225000|1 Year|Available|In Stock|No|bat-tb-025.jpg|bat-tb-025-1.jpg, bat-tb-025-2.jpg|BAT-TB-025
+JTG169|Pattern Lithium Battery 10kW 51.2V|Battery|Pattern|1590000|1590000|5 Years|Available|In Stock|No|bat-li-017.jpg|bat-li-017-1.jpg, bat-li-017-2.jpg|BAT-LI-017
+JTG178|Blue Carbon Hybrid Inverter 4kVA 24V|Inverter|Blue Carbon|445000|445000|1 Year|Available|In Stock|No|inv-063.jpg|inv-063-1.jpg, inv-063-2.jpg|INV-063
+JTG199|Genus Tubular Battery 230Ah/12V|Battery|Genus|450000|450000|2 Years|Available|In Stock|No|bat-li-037.jpg|bat-li-037-1.jpg, bat-li-037-2.jpg|BAT-LI-037
+JTG202|Growatt Hybrid Inverter 6kVA 48V|Inverter|Growatt|630000|630000|5 Years|Available|In Stock|Yes|inv-071.jpg|inv-071-1.jpg, inv-071-2.jpg|INV-071
+JTG209|Tigfox Lithium Iron Battery 7.5KW 24V|Battery|Tigfox|1090000|1090000|5 Years|Available|In Stock|No|bat-li-045.jpg|bat-li-045-1.jpg, bat-li-045-2.jpg|BAT-LI-045
+JTG212|Itel 500w Solar Generator 1000wh Lithium Battery Iess-05k10n Power Tank + 410w Solar Panel|All-in-One System|Itel|498999|498999|2 Years|Available|In Stock|Yes|aio-004.jpg|aio-004-1.jpg, aio-004-2.jpg|AIO-004
+JTG220|itel Energy 3.6kW Inverter, 8kWh Battery & 5kw MPPT All-in-One Solar Power System - Complete Energy Storage Solution|All-in-One System|Itel|3000000|3000000|3 Years|Available|In Stock|No|aio-006.jpg|aio-006-1.jpg, aio-006-2.jpg|AIO-006
+JTG231|Integrity Solar Generator 30W|All-in-One System|Integrity|120000|120000|3 Years|Available|In Stock|No|aio-007.jpg|aio-007-1.jpg, aio-007-2.jpg|AIO-007
+JTG233|Mercury 3.5kVA Solar Hybrid Inverter with 5kWh Lithium Battery & 8x 450W Mono Panels|Complete packages|Mercury|3400000|3400000|5 Years|Available|In Stock|yes|bat-li-054.jpg|bat-li-054-1.jpg, bat-li-054-2.jpg|BAT-LI-054
+JTG236|Mercury 1kva Inverter and 65Ah battery|Complete packages|mercury|270000|270000|5 Years|Available|In Stock|No|bat-li-057.jpg|bat-li-057-1.jpg, bat-li-057-2.jpg|BAT-LI-057
+JTG277|MERCURY ELITE 220AH DEEP CYCLE TALL TUBULAR BATTERY|Battery|Mercury|260000|260000|2 years|Available|In Stock|No|acc-005.jpg|acc-005-1.jpg, acc-005-2.jpg|ACC-005
+JTG280|PWM Charge Controller 20A haustrom|Charge Controller|Generic|10000|10000|1 Year|Available|In Stock|No|cc-032.jpg|cc-032-1.jpg, cc-032-2.jpg|CC-032
+JTG304|EASTMAN 900va/12v inverter|Inverter|Eastman|210500|210500|1 Year|Available|In Stock|No|inv-126.jpg|inv-126-1.jpg, inv-126-2.jpg|INV-126
+JTG325|Must Inverter 1kVA 12V VPM|Inverter|Must|190000|190000|1 Year|Available|In Stock|No|inv-141.jpg|inv-141-1.jpg, inv-141-2.jpg|INV-141
+JTG358|Sumec Firman Inverter 3.5kVA 24V transformerless hybrid|Inverter|Sumec Firman|350000|350000|2 Years|Available|In Stock|No|inv-174.jpg|inv-174-1.jpg, inv-174-2.jpg|INV-174
+JTG371|Integrity Solar Standing Fan 16inch/18inch|Accessory|Generic|69000|69000|6 Months|Not Required|In Stock|No|acc-009.jpg|acc-009-1.jpg, acc-009-2.jpg|ACC-009
+JTG375|Solar Cable 4mm 2core|Accessory|Generic|4000|4000|6 Months|Not Required|In Stock|No|acc-010.jpg|acc-010-1.jpg, acc-010-2.jpg|ACC-010
+JTG379|SRNE ASP 14-16kW Single/Split Phase Low Voltage|inverter|SRNE|3500000|3500000|10 Years|Available|In Stock|No|wh-001.jpg|wh-001-1.jpg, wh-001-2.jpg|WH-001
+JTG381|5.12kWh DEYE Lithium Battery (SE-F5)|Battery|DEYE|990000|990000|5 Years|Available|In Stock|No|DE-003.jpg|DE-003-1.jpg, DE-003-2.jpg|DE-003
+JTG383|16kWh SRNE Lithium Battery|Battery|SRNE|3450000|3450000|5 Years|available|In Stock|No|SRN-001.jpg|SRN-001-1.jpg, SRN-001-2.jpg|SRN-001
+JTG386|Mercury 4KVA Inverter Pure Sine Wave MI4250|inverter|Mercury|530000|530000|5Year|Available|In Stock|No|Mer-004.jpg|Mer-004-1.jpg, Mer-004-2.jpg|MER-004
+JTG394|DEYE 6KW HYBRID INVERTER – SUN-6K-OG01LP1-EU-AM2|Inverter|Deye|870000|870000|5 Years|Available|In Stock|No|pmp-003.jpg|pmp-003-1.jpg, pmp-003-2.jpg|PMP-003
+JTG400|Felicity Solar 48V 100AH 5KWH Lithium Ion Battery||FELICITY|1200000|1200000|10 Years|Available|In Stock|No|pmp-009.jpg|pmp-009-1.jpg, pmp-009-2.jpg|PMP-009
+JTG403|6kw Off-grid Hybrid Single Phase Solar Inverter|INVERTER|DEYE|590000|590000|5 YEARS|Available|In Stock|No|pmp-012.jpg|pmp-012-1.jpg, pmp-012-2.jpg|PMP-012
+JTG416|Mercury 11kVA Solar Hybrid Inverter MPPT 48V with 15kWh Lithium Battery and Solar Panels System|Complete packages|Mercury|9538000|9538000|5Years|Available|In Stock|No|inv-191.jpg|inv-191-1.jpg, inv-191-2.jpg|INV-191
+JTG418|Mercury 10kva Inverter 120v Complete System|Complete Packages|Integrity|5670000|5670000|5 Years|Available|In Stock|No|ac-001.jpg|ac-001-1.jpg, ac-001-2.jpg|AC-001
+JTG419|Haustrom 220Ah Tubular Battery|Battery|Haustrom|255000|255000|1 Year|Available|In Stock|No|Sa-001.jpg|Sa-001.jpg|Sa-001
